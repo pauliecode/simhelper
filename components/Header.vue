@@ -12,7 +12,7 @@
       <h1 class="my-auto">SimHelper</h1>
     </figure>
     <nav class="flex gap-5 items-center">
-      <a href="#about" class="self-stretch my-auto">About Us</a>
+      <NuxtLink to="/about">About</NuxtLink>
       <a href="#contribute" class="self-stretch my-auto">Contribute</a>
       <a
         href="#home"
