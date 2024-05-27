@@ -14,13 +14,11 @@
         Flight sims can be hard, we know this. Find everything you need to start
         flying!
       </p>
-      <div
-        role="button"
-        tabindex="0"
-        class="text-center justify-center self-center px-6 py-3.5 mt-6 text-base font-medium leading-6 text-white bg-fuchsia-800 rounded-lg mx-auto w-1/4 shadow-sm"
+      <NuxtLink
+        class="flex text-center justify-center self-center px-6 py-3.5 mt-6 text-base font-medium leading-6 text-white bg-fuchsia-800 hover:bg-fuchsia-700 rounded-lg mx-auto w-1/4 shadow-sm"
+        to="/introduction"
+        >Take Off!</NuxtLink
       >
-        Take Off!
-      </div>
     </section>
     <figure class="mt-24 w-full aspect-[2] max-md:mt-10 max-md:max-w-full">
       <img

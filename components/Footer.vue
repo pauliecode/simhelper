@@ -9,7 +9,18 @@
       class="flex gap-5 mt-12 w-full max-md:flex-wrap max-md:mt-10 max-md:max-w-full"
     >
       <div class="flex flex-col self-start mt-3.5">
-        <h4 class="text-2xl leading-9 text-fuchsia-800">SimHelper</h4>
+        <NuxtLink to="/">
+          <figure class="flex items-center w-[5%]">
+            <img
+              loading="lazy"
+              src="/public/img/logo.png"
+              alt="SimHelper's logo"
+              class="mr-4"
+            />
+            <h4 class="text-2xl leading-9 text-fuchsia-800">SimHelper</h4>
+          </figure>
+        </NuxtLink>
+
         <div class="flex gap-2 mt-24 max-md:mt-10">
           <img
             loading="lazy"
