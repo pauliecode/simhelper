@@ -1,6 +1,6 @@
 <template>
   <main
-    class="flex flex-col px-20 mt-32 w-full max-md:px-5 max-md:mt-10 max-md:max-w-full"
+    class="flex flex-col px-20 mt-8 w-full max-md:px-5 max-md:mt-10 max-md:max-w-full"
   >
     <section>
       <h2

@@ -115,10 +115,9 @@
         </p>
       </div>
     </section>
-    <div class="relative flex py-5 mt-16 items-center">
-      <div class="flex-grow border-t border-gray-400"></div>
-      <div class="flex-grow border-t border-gray-400"></div>
-    </div>
+    <hr
+      class="shrink-0 h-px border border-solid mt-16 bg-neutral-200 border-neutral-200 max-md:max-w-full"
+    />
     <section class="mt-4">
       <div
         class="self-center mt-6 text-xl leading-9 text-center text-zinc-700 max-md:max-w-full"
@@ -130,26 +129,25 @@
         <ul class="list-disc list-outside indent-0">
           <li>
             <span class="text-[#8412AA] font-semibold">Price:</span> This is the
-            a big one, right? Flight simming will always be an investment, but
-            some investments are bigger than others.
+            a big one, right? Flight sims will always be an investment, but some
+            investments are bigger than others.
           </li>
-          <li class="pr-[35px]">
+          <li class="pr-[60px]">
             <span class="text-[#8412AA] font-semibold">Accessibility:</span> How
             hard is it to set it up? How much time do I have to invest in
             getting it running without crashes?
           </li>
-          <li>
+          <li class="pr-[18px]">
             <span class="text-[#8412AA] font-semibold">Requirements:</span>
-            Flight simulation requires a good pc, but some sims require more
+            Flight simulation requires a good PC, but some sims require more
             powerful PCs than others, as well as other factors like the OS.
           </li>
         </ul>
       </div>
     </section>
-    <div class="relative flex py-5 mt-16 items-center">
-      <div class="flex-grow border-t border-gray-400"></div>
-      <div class="flex-grow border-t border-gray-400"></div>
-    </div>
+    <hr
+      class="shrink-0 h-px border border-solid mt-16 mb-16 bg-neutral-200 border-neutral-200 max-md:max-w-full"
+    />
     <section class="mt-8">
       <div
         class="self-center mt-6 text-xl leading-9 text-center text-zinc-700 max-md:max-w-full"
@@ -162,7 +160,27 @@
           to get more information about it and learn how to get started with it.
           Of course,
           <span class="text-[#8412AA] font-semibold"
-            >you can always go back if you change your mind</span
+            >you can always go back if you change your mind.</span
+          >
+          <br />
+          <br />
+          <span class="text-[#8412AA] font-semibold">PS:</span> There are
+          <span class="text-[#8412AA] font-semibold">other simulators</span>
+          that we have not mentioned as they are not very popular at the moment
+          or because they run on other platforms like
+          <span class="text-[#8412AA] font-semibold">mobile</span> (For now we
+          will
+          <span class="text-[#8412AA] font-semibold"
+            >mainly focus on PC as a platform</span
+          >, with some help for
+          <span class="text-[#8412AA] font-semibold">Xbox</span> as well).
+          <br />
+          <br />
+          This doesn't mean that they are not good and perfectly viable options!
+          This include, for example,
+          <span class="text-[#8412AA] font-semibold"
+            >Aerofly FS4, Microsoft Flight Simulator X and Infinite
+            Flight.</span
           >
         </p>
       </div>
